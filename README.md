@@ -13,4 +13,6 @@ This project involves designing and implementing recursive algorithms in Java to
 
 ### Project-4
 This assignment involves writing part of a Java program to play the X+Game, where two players (a human and the computer) take turns placing tiles on an n x n board, aiming to form an X-shape or +shape with at least k tiles to win. The program evaluates possible plays using a recursive algorithm and a hash table to store and retrieve board configurations efficiently, and a graphical user interface (GUI) is provided to display the game board when the Java files are run.
-[Screenshot shows possible ways of winning] 
+
+<img src="https://github.com/ParthKathiria/JavaProjects/blob/main/Project-4/img/howtowin.PNG" width="500" />
+Figure shows possible ways of winning the game
