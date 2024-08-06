@@ -22,3 +22,5 @@ This project involves implementing an ordered dictionary using a binary search t
 
 ### Project-6
 This project involves writing a program to solve a maze represented as an undirected graph, where nodes correspond to rooms and edges to corridors or doors. The program will read a maze description from a file, use a specified number of coins to open doors, and output a path from the entrance to the exit, implementing a graph traversal algorithm such as a modified depth-first search (DFS).
+
+Note: Every project is coded solely using Java.
